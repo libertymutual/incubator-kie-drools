@@ -60,7 +60,7 @@ public class BigDecimalConvertedExprT implements TypedExpression {
 
     @Override
     public String toString() {
-        return "BigDecimalConstantExprT{" +
+        return "BigDecimalConvertedExprT{" +
                 "value=" + value +
                 '}';
     }
